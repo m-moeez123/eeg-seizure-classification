@@ -80,6 +80,6 @@ You can install these libraries using pip:
 
 Then, you can open the eeg-seizure-classification.ipynb file in a Jupyter Notebook or Google Colab environment and run the cells in order.
 
-![Profile views](https://komarev.com/ghpvc/?username=m-moeez123)
+
 
 
